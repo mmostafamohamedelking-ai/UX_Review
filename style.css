@@ -5,6 +5,7 @@ body{
     margin: 0;
     font-family: "Exo", sans-serif;
     overflow-x: hidden;
+    background-color: transparent;
 }
 body::selection{
     background-color: #FFD15B;
