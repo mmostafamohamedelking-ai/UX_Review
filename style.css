@@ -94,29 +94,11 @@ nav .inner{
     border-radius: 20px;
     border: solid black 2px;    
 }
-
-
 nav .menu-links img{
     margin: 10px;
     width: 15px; 
     filter: invert(.88) sepia(.2) hue-rotate(210deg);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .top-section{
     background-color: #FFF085
 }
